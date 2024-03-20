@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
-- 📕 Im currently learning **Kotlin** and advancing **JavaScript**, **CSS** & **HTML**
 - 👽 Im currently working on **[enka.network API](https://github.com/kazuryyx/EnkaNetworkAPI)**
 
 <h3 align="left">Languages and Tools:</h3>
